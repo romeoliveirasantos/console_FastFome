@@ -456,6 +456,7 @@ namespace FastFome
 
 
         }
+        //cardápio de bebidas
         static void MenuBebidas()
         {
             Console.Clear();
@@ -628,6 +629,7 @@ namespace FastFome
             }
         }
 
+        //Confirmação de pedido
         static void ConfirmOrder(string res, decimal preco)
         {
             Console.Clear();
@@ -649,7 +651,7 @@ namespace FastFome
             }
         }
 
-
+        //Salva pedido
         static void SaveOrder(string pedido, decimal valor)
         {
             if (pedidos.ContainsKey(pedido))
@@ -665,7 +667,7 @@ namespace FastFome
             Console.WriteLine($"Pedido adicionado:\n\n{pedido}\nPreço: R$ {valor}\nQuantidade: {pedidos[pedido].quantity}");
         }
 
-
+        //Checkout pedido
         static void Checkout()
         {
             Console.Clear();
@@ -706,6 +708,7 @@ namespace FastFome
                 MenuPrincipal();
             }
         }
+        //Métodos de pagamentos
         static void Payment()
         {
             ExibirCheckout();
@@ -743,6 +746,7 @@ namespace FastFome
 
             }
         }
+        //Descarta pedidos
         static void DescartaPedidos()
         {
             Console.Clear();
