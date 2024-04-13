@@ -1,0 +1,14 @@
+C:\DEV\FastFome\bin\Debug\net8.0\FastFome.exe
+C:\DEV\FastFome\bin\Debug\net8.0\FastFome.deps.json
+C:\DEV\FastFome\bin\Debug\net8.0\FastFome.runtimeconfig.json
+C:\DEV\FastFome\bin\Debug\net8.0\FastFome.dll
+C:\DEV\FastFome\bin\Debug\net8.0\FastFome.pdb
+C:\DEV\FastFome\obj\Debug\net8.0\FastFome.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\FastFome\obj\Debug\net8.0\FastFome.AssemblyInfoInputs.cache
+C:\DEV\FastFome\obj\Debug\net8.0\FastFome.AssemblyInfo.cs
+C:\DEV\FastFome\obj\Debug\net8.0\FastFome.csproj.CoreCompileInputs.cache
+C:\DEV\FastFome\obj\Debug\net8.0\FastFome.dll
+C:\DEV\FastFome\obj\Debug\net8.0\refint\FastFome.dll
+C:\DEV\FastFome\obj\Debug\net8.0\FastFome.pdb
+C:\DEV\FastFome\obj\Debug\net8.0\FastFome.genruntimeconfig.cache
+C:\DEV\FastFome\obj\Debug\net8.0\ref\FastFome.dll
